@@ -11,7 +11,7 @@ theme : simple
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override: assets/css/PITCHME.css
+#theme-override: assets/css/PITCHME.css
 
 #
 # Logo Setting
@@ -30,13 +30,13 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+#footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
 #
-published : true
+published : false
 
 #
 # Twitter Card Settings [Pro Only]
